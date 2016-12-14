@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048VideoTutorial.CSharp", "2048VideoTutorial.CSharp.csproj", "{5A2505FB-6EAB-DED9-4847-7621496849E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048VideoTutorial.CSharp.Editor", "2048VideoTutorial.CSharp.Editor.csproj", "{0E4984EE-9DB6-020F-2C5B-EF1A9CDD2269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2505FB-6EAB-DED9-4847-7621496849E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2505FB-6EAB-DED9-4847-7621496849E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2505FB-6EAB-DED9-4847-7621496849E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2505FB-6EAB-DED9-4847-7621496849E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4984EE-9DB6-020F-2C5B-EF1A9CDD2269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4984EE-9DB6-020F-2C5B-EF1A9CDD2269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4984EE-9DB6-020F-2C5B-EF1A9CDD2269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4984EE-9DB6-020F-2C5B-EF1A9CDD2269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
